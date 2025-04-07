@@ -1,2 +1,2 @@
 # recette-cookies
-Ceci est mon premier README
+Une recette gourmande :p
