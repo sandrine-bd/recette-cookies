@@ -16,4 +16,10 @@
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
+# ignorer les fichiers de mon OS
+*.DS_Store
+
+# ignorer les fichiers de mon IDE
+*.idea
+
 # End of https://www.toptal.com/developers/gitignore/api/linux
